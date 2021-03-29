@@ -1,4 +1,4 @@
-#ETCH-A-SKETCH
+# ETCH-A-SKETCH
 
 1. Create a webpage with a 16x16 grid of square divs.
     1. Create the divs using JavaScript.
