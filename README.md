@@ -23,8 +23,8 @@
         2. Changing the div's background color using JavaScript.
 
 3. Add a button to the to of the screen which will clear the current grid and send the user a popup asking how many squares per side to make a new grid. Once entered the new grid should be generated *in the same total space as before* (e.g 960px wide) and now you've got a new sketch pad. **Tip:** Set the limit for the user inoyt to a maximum of 100. A larger number of squares results in more computer resources being used, resulting in possible delays, freezing or crashing that we want to prevent.
-    1. Research > button tags in HTML and how you can make a JavaScript function run when one is clicked.
-    2. Also check out > prompts
+    1. Research >button tags in HTML and how you can make a JavaScript function run when one is clicked.
+    2. Also check out >prompts
     3. You should be able to enter 64 and have a brand new 64z64 grid pop up without changing the total amout of pixels used
 
 4. (Optional): Instead of just changing the color of the grid from black to white (for example) have each pass through it with the mouse change to a completely random RGB value. Then try having each pass just add another 10% of black to it so that only after 10 passes is the square completely black.
